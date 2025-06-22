@@ -128,7 +128,7 @@ h2{
 }
 
 .bass:nth-child(1){
-    /* background-color: rgb(99, 0, 0); */
+    background-color: rgb(99, 0, 0);
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
     /* background-image: url(/IMAGES/palm.jfif);  */
